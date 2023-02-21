@@ -13,7 +13,11 @@
 
 ## I'm [**Jaydeep**](https://www.linkedin.com/in/9596-jaydeep-patel/) and welcome to my GitHub profile!
 
-- ⚡ Fun fact: ...
+⚡ Fun fact:
+
+- Before switching to Data Science, I'm working on Front hand Co-Ordinator in HDFC Bank.
+- Currently learning Data Science from intellipaat.
+- Interested in  **`Machine Learning`** and **`Deep Learning`**
  
 💻  **Languages/Tech Stack:** 
 
