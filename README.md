@@ -1,16 +1,22 @@
-                                                                     # Hi 👋, I'm Jaydeep 
+# Hi 👋, I'm Jaydeep 
 
-<!--
-**Jaydeep9596/Jaydeep9596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<a href="https://www.linkedin.com/in/9596-jaydeep-patel/">
+  <img align="left" alt="Jaydeep's Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Jaydeep9596">
+  <img align="left" alt="Jaydeep's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
+
+## I'm [**Jaydeep**](https://www.linkedin.com/in/9596-jaydeep-patel/) and welcome to my GitHub profile!
+
 - ⚡ Fun fact: ...
--->
+ 
+💻  **Languages/Tech Stack:** 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">  
+
+
