@@ -1,6 +1,6 @@
 ![pateljaydeep90596@gmail com](https://user-images.githubusercontent.com/106006755/220545239-d6a98c73-725a-4716-b2ee-1fb70d9aa7e4.gif)
 
-# Hi 👋, I'm Jaydeep 
+<h1 align="center">Hi 👋, I'm Jaydeep patel</h1> 
 
 # Hello World! 👋
 
@@ -26,3 +26,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">  
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydeep9596&show_icons=true&locale=en" alt="jaydeep9596" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep9596&" alt="jaydeep9596" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydeep9596&show_icons=true&locale=en&layout=compact" alt="jaydeep9596" /></p>
