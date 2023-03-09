@@ -1,4 +1,4 @@
-![pateljaydeep90596@gmail com](https://user-images.githubusercontent.com/106006755/220545239-d6a98c73-725a-4716-b2ee-1fb70d9aa7e4.gif)
+![JAYDEEP pATEL (1)](https://user-images.githubusercontent.com/106006755/224121834-367ee42b-fa06-4633-9edd-1c90bb1ff10c.gif)
 
 <h1 align="center">Hi 👋, I'm Jaydeep patel</h1> 
 
