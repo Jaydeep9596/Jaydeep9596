@@ -15,6 +15,12 @@
 
 ## I'm [**Jaydeep**](https://www.linkedin.com/in/9596-jaydeep-patel/) and welcome to my GitHub profile!
 
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
+</br>
+
 ⚡ Fun fact:
 
 - Before switching to Data Science, I'm working on Front hand Co-Ordinator in HDFC Bank.
